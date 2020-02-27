@@ -1,0 +1,7 @@
+# Files
+pyvenv.cfg
+
+# Directories
+learning_src/
+env/
+.vscode/
